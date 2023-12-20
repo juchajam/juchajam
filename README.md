@@ -2,8 +2,8 @@
 #### 🤖 Robotics
 <br/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juchajam)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juchajam)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juchajam&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juchajam&&layout=donut)
 
 <br/>
 
